@@ -31,7 +31,3 @@ alwaysApply: true
         ? What's next? (Submit / Continue in browser / Cancel): Submit
         ```
 
-PR이 머지되면 로컬 브랜치를 삭제합니다.
-git checkout main
-git branch -d feature/my-new-task
-git pull upstream main (최신 상태로 업데이트)
